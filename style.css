@@ -53,6 +53,7 @@ img {
   font-family: "Roboto", sans-serif;
   margin-left: 7.2em;
   margin-top: 3em;
+  -webkit-rotate: 90deg;
   rotate: 90deg;
 }
 
