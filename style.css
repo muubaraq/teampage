@@ -54,7 +54,7 @@ img {
   font-family: "Roboto", sans-serif;
   margin-left: 7.2em;
   margin-top: 3em;
-  rotate: 90deg !important;
+  transform: rotate(90deg);
 }
 
 .role1 {
