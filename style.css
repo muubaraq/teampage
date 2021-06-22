@@ -25,8 +25,7 @@ h3 {
   font-size: 16px;
   font-weight: 400;
 }
-div {
-display: block;}
+
 
 .first-photo {
   position: relative;
@@ -55,7 +54,6 @@ img {
   font-family: "Roboto", sans-serif;
   margin-left: 7.2em;
   margin-top: 3em;
-  -webkit-rotate: 90deg;
   rotate: 90deg;
 }
 
